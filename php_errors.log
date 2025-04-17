@@ -16,3 +16,11 @@
 [13-Apr-2025 10:25:13 Europe/Berlin] PHP Warning:  Undefined array key "building_name" in C:\xampp\htdocs\Amanroom\edit_employee.php on line 365
 [13-Apr-2025 10:25:13 Europe/Berlin] PHP Warning:  Undefined array key "building_name" in C:\xampp\htdocs\Amanroom\edit_employee.php on line 365
 [13-Apr-2025 10:25:13 Europe/Berlin] PHP Warning:  Undefined array key "building_name" in C:\xampp\htdocs\Amanroom\edit_employee.php on line 365
+[17-Apr-2025 17:34:02 Europe/Berlin] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Amanroom\add_equipment.php on line 42
+[17-Apr-2025 17:34:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Amanroom\add_equipment.php on line 42
+[17-Apr-2025 17:34:02 Europe/Berlin] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Amanroom\add_equipment.php on line 138
+[17-Apr-2025 17:34:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Amanroom\add_equipment.php on line 138
+[17-Apr-2025 17:35:24 Europe/Berlin] PHP Warning:  include(header.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Amanroom\add_equipment.php on line 42
+[17-Apr-2025 17:35:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Amanroom\add_equipment.php on line 42
+[17-Apr-2025 17:35:24 Europe/Berlin] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\Amanroom\add_equipment.php on line 138
+[17-Apr-2025 17:35:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\Amanroom\add_equipment.php on line 138
